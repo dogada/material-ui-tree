@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/dogada/material-ui-tree/compare/v1.0.15...v1.1.0) (2019-09-23)
+
+
+### Features
+
+* upgrade react & material-ui dependencies ([b9d21fa](https://github.com/dogada/material-ui-tree/commit/b9d21fa))
+
+
+
 <a name="1.0.15"></a>
 ## [1.0.15](https://github.com/ImmortalJoker/material-ui-tree/compare/v1.0.14...v1.0.15) (2018-09-19)
 
